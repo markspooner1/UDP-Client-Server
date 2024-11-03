@@ -1,0 +1,9 @@
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-border-color: #3498db;
+}
